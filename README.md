@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<img src="./images/python_icon.svg" alt="Python Icon" height="32">
+<img src="https://github.com/donydaily/donydaily.github.io/images/banner.jpg>
