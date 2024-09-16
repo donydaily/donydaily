@@ -19,3 +19,6 @@
     <img src="https://skillicons.dev/icons?i=raspberrypi" />
     <img src="https://skillicons.dev/icons?i=ubuntu" />
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donydaily&show_icons=true&hide_title=true)
+
